@@ -1,0 +1,61 @@
+[
+{
+  "directory": "/Users/sec/Documents/github-me/DexDiff/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbspatch_utlis_EXPORTS -I/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -o CMakeFiles/bspatch_utlis.dir/native-lib.cpp.o -c /Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/native-lib.cpp"
+},
+
+{
+  "directory": "/Users/sec/Documents/github-me/DexDiff/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbspatch_utlis_EXPORTS -I/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/bspatch_utlis.dir/bspatch.c.o   -c /Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bspatch.c",
+  "file": "/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bspatch.c"
+},
+
+{
+  "directory": "/Users/sec/Documents/github-me/DexDiff/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbspatch_utlis_EXPORTS -I/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/bspatch_utlis.dir/bzip2/blocksort.c.o   -c /Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/blocksort.c",
+  "file": "/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/blocksort.c"
+},
+
+{
+  "directory": "/Users/sec/Documents/github-me/DexDiff/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbspatch_utlis_EXPORTS -I/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/bspatch_utlis.dir/bzip2/bzip2.c.o   -c /Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/bzip2.c",
+  "file": "/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/bzip2.c"
+},
+
+{
+  "directory": "/Users/sec/Documents/github-me/DexDiff/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbspatch_utlis_EXPORTS -I/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/bspatch_utlis.dir/bzip2/bzlib.c.o   -c /Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/bzlib.c",
+  "file": "/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/bzlib.c"
+},
+
+{
+  "directory": "/Users/sec/Documents/github-me/DexDiff/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbspatch_utlis_EXPORTS -I/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/bspatch_utlis.dir/bzip2/compress.c.o   -c /Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/compress.c",
+  "file": "/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/compress.c"
+},
+
+{
+  "directory": "/Users/sec/Documents/github-me/DexDiff/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbspatch_utlis_EXPORTS -I/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/bspatch_utlis.dir/bzip2/crctable.c.o   -c /Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/crctable.c",
+  "file": "/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/crctable.c"
+},
+
+{
+  "directory": "/Users/sec/Documents/github-me/DexDiff/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbspatch_utlis_EXPORTS -I/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/bspatch_utlis.dir/bzip2/decompress.c.o   -c /Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/decompress.c",
+  "file": "/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/decompress.c"
+},
+
+{
+  "directory": "/Users/sec/Documents/github-me/DexDiff/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbspatch_utlis_EXPORTS -I/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/bspatch_utlis.dir/bzip2/huffman.c.o   -c /Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/huffman.c",
+  "file": "/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/huffman.c"
+},
+
+{
+  "directory": "/Users/sec/Documents/github-me/DexDiff/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/sec/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbspatch_utlis_EXPORTS -I/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/bspatch_utlis.dir/bzip2/randtable.c.o   -c /Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/randtable.c",
+  "file": "/Users/sec/Documents/github-me/DexDiff/app/src/main/cpp/bzip2/randtable.c"
+}
+]
